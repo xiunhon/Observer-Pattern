@@ -1,7 +1,6 @@
 import java.util.ArrayList;
 /**
- * @author Group 3: Tien N., Victoria T., Niklas K.
- * 
+ * @author Tien N.
  * a Trader registers to observe some stocks
  * when there's a new trade submitted, this trader will get an update
  */

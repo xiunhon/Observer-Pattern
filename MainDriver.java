@@ -1,7 +1,6 @@
 /**
+ * @author Tien N.
  * Observer Pattern Tester
- * @author Group 3: Tien N., Victoria T., Niklas K.
- * 
  */
 public class MainDriver {
 

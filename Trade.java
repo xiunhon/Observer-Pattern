@@ -1,6 +1,5 @@
 /*
- * 
- * a Trade object holds 4 variables
+ * a Trade object holds 3 variables
  * a Trader
  * a Trade option (BUY or SALE)
  * an amount

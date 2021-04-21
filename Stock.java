@@ -1,10 +1,8 @@
 import java.util.ArrayList;
 /**
- * 
- * @author Group 3: Tien N., Victoria T., Niklas K.
+ * @author Tien N.
  * each Stock has its own list of Traders who registered to observe it
  * must notify its observers when there are new trade has been made
- *
  */
 public class Stock implements Subject {
 	private String stockName;
@@ -70,4 +68,4 @@ public class Stock implements Subject {
 	public String displayTradersList() {
 		return tradersList.toString();
 	}
-}
+}//end of class
